@@ -111,4 +111,12 @@ return {
     SkyboxRt = "rbxassetid://18215027585",
     SkyboxUp = "rbxassetid://18215027585",
   },
+  ["Pdiddy"] = {
+    SkyboxBk = "rbxassetid://18325478168",
+    SkyboxDn = "rbxassetid://18325478168",
+    SkyboxFt = "rbxassetid://18325478168",
+    SkyboxLf = "rbxassetid://18325478168",
+    SkyboxRt = "rbxassetid://18325478168",
+    SkyboxUp = "rbxassetid://18325478168",
+  },
 }
